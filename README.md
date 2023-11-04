@@ -1,4 +1,4 @@
-## Olá! Me chamo Márcio, analista de sistemas e amante de tudo que envolve tecnologia, seja bem vindo!
+## Olá! Me chamo Márcio, analista de sistemas e amante de tudo que envolve tecnologia, seja bem vindo! 👋
 
 <div>
 <a href="https://github.com/marciomrd/github-readme-stats">
