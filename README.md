@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there this is my git 👋
+
+=== About me ===
+
+=== What you can find here ===
+
+=== How this git is organized ===
 
 <!--
 **marciomrd/marciomrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
