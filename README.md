@@ -2,9 +2,9 @@
 
 === About me ===
 
-=== What you can find here ===
+=== What you can find here? ===
 
-=== How this git is organized ===
+=== Connect with me ===
 
 <!--
 **marciomrd/marciomrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
