@@ -1,6 +1,10 @@
-### Hi there this is my git 👋
+### There is my GIT ###
 
 === About me ===
+<ul>
+  <li> 👋 Hi, my name is Márcio!</li>
+  <li> 👀 I am interested in getting involved professionally as a developer and sharing knowledge with those who are part of my path to becoming a master in development!</li>
+</ul>
 
 === What you can find here? ===
 
