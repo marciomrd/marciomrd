@@ -3,7 +3,8 @@
 === About me ===
 <ul>
   <li> 👋 Hi, my name is Márcio!</li>
-  <li> 👀 I am interested in getting involved professionally as a developer and sharing knowledge with those who are part of my path to becoming a master in development!</li>
+  <li> 👀 I am interested in getting involved professionally as a developer and following my journey to become a master developer!</li>
+  <li> 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, React, Angular and ExpressJS </li>
 </ul>
 
 === What you can find here? ===
