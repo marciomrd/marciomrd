@@ -1,15 +1,18 @@
-### There is my GIT ###
+<h1> ### There is my GIT ### </h1>
 
-=== About me ===
+<h2> === About me === </h2>
+
 <ul>
-  <li> 👋 Hi, my name is Márcio!</li>
-  <li> 👀 I am interested in getting involved professionally as a developer and following my journey to become a master developer!</li>
-  <li> 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, React, Angular and ExpressJS </li>
+  <li> 👋 Hi, my name is Márcio! </li>
+  <li> 👀 I am interested in getting involved professionally as a developer and following my journey to become a master developer! </li>
+  <li> 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, React, Angular and ExpressJS. </li>
 </ul>
 
-=== What you can find here? ===
+<h2> === What you can find here? === </h2>
 
-=== Connect with me ===
+<h2> === Skill Tree === </h2>
+
+<h2> === Connect with me === </h2>
 
 <!--
 **marciomrd/marciomrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
