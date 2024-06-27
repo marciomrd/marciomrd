@@ -1,5 +1,3 @@
-<h1> ### This GIT is under Construction!👷🚧 ### </h1>
-
 <h2> === About me === </h2>
 
 <ul>
@@ -10,8 +8,6 @@
 
 <h2> === Skill Tree === </h2>
 
-<h3>Frontend</h3>
-
 <div style = "display: inline_block">
   <img align = "center" height = "30px" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
   <img align = "center" height = "30px" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
@@ -19,9 +15,7 @@
   <img align = "center" height = "30px" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align = "center" height = "30px" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
-
-<h3>Backend</h3>
-
+<br>
 <div style = "display: inline_block">
   <img align = "center" height = "30px" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
   <img align = "center" height = "30px" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -29,8 +23,6 @@
   <img align = "center" height = "30px" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />  
   <img align = "center" height = "30px" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />  
 </div>
-
-<h2> === Connect with me === </h2>
 
 <!--
 **marciomrd/marciomrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
