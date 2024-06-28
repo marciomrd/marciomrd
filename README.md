@@ -9,19 +9,19 @@
 <h2> === Skill Tree === </h2>
 
 <div style = "display: inline_block">
-  <abbr title = "HTML-5"><img align = "center" height = "30px" width = "40px" alt = "marcio-html" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /></abbr>
-  <abbr title = "CSS-3"><img align = "center" height = "30px" width = "40px" alt = "marcio-css" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" /></abbr>
-  <abbr title = "JavaScript"><img align = "center" height = "30px" width = "40px" alt = "marcio-js" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /></abbr>
-  <abbr title = "React"><img align = "center" height = "30px" width = "40px" alt = "marcio-react" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></abbr>
-  <abbr title = "Tailwind"><img align = "center" height = "30px" width = "40px" alt = "marcio-wind" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></abbr>
+  <img title = "HTML-5" align = "center" height = "30px" width = "40px" alt = "marcio-html" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+  <img title = "CSS-3" align = "center" height = "30px" width = "40px" alt = "marcio-css" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+  <img title = "JavaScript" align = "center" height = "30px" width = "40px" alt = "marcio-js" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img title = "React" align = "center" height = "30px" width = "40px" alt = "marcio-react" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img title = "Tailwind" align = "center" height = "30px" width = "40px" alt = "marcio-wind" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 <br>
 <div style = "display: inline_block">
-  <abbr title = "C++"><img align = "center" height = "30px" width = "40px" alt = "marcio-cpp" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" /></abbr>
-  <abbr title = "Phyton"><img align = "center" height = "30px" width = "40px" alt = "marcio-python" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></abbr>
-  <abbr title = "Go"><img align = "center" height = "30px" width = "40px" alt = "marcio-go" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /></abbr>
-  <abbr title = "NodeJS"><img align = "center" height = "30px" width = "40px" alt = "marcio-node" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></abbr> 
-  <abbr title = "PostgreSQL"><img align = "center" height = "30px" width = "40px" alt = "marcio-postgre" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" /></abbr> 
+  <img title = "C++" align = "center" height = "30px" width = "40px" alt = "marcio-cpp" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+  <img title = "Phyton" align = "center" height = "30px" width = "40px" alt = "marcio-python" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img title = "Go" align = "center" height = "30px" width = "40px" alt = "marcio-go" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+  <img title = "NodeJS" align = "center" height = "30px" width = "40px" alt = "marcio-node" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img title = "PostgreSQL" align = "center" height = "30px" width = "40px" alt = "marcio-postgre" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" /> 
 </div>
 
 <!--
