@@ -19,7 +19,7 @@
 <br>
 <div style = "display: inline_block">
   <img title = "C++" align = "center" height = "30px" width = "40px" alt = "marcio-cpp" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
-  <img title = "Phyton" align = "center" height = "30px" width = "40px" alt = "marcio-python" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img title = "Python" align = "center" height = "30px" width = "40px" alt = "marcio-python" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img title = "Go" align = "center" height = "30px" width = "40px" alt = "marcio-go" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
   <img title = "NodeJS" align = "center" height = "30px" width = "40px" alt = "marcio-node" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img title = "PostgreSQL" align = "center" height = "30px" width = "40px" alt = "marcio-postgre" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" /> 
