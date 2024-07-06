@@ -17,13 +17,13 @@
   <img title = "Tailwind" align = "center" height = "30px" width = "40px" alt = "marcio-wind" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 <br>
-<div style = "display: inline_block">
+<!-- <div style = "display: inline_block">
   <img title = "C++" align = "center" height = "30px" width = "40px" alt = "marcio-cpp" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
   <img title = "Python" align = "center" height = "30px" width = "40px" alt = "marcio-python" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img title = "Go" align = "center" height = "30px" width = "40px" alt = "marcio-go" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
   <img title = "NodeJS" align = "center" height = "30px" width = "40px" alt = "marcio-node" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img title = "PostgreSQL" align = "center" height = "30px" width = "40px" alt = "marcio-postgre" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" /> 
-</div>
+</div> -->
 
 <!--
 **marciomrd/marciomrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
