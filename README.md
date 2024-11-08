@@ -27,12 +27,12 @@
   <img title = "Typescript" align = "center" height = "30px" width = "40px" alt = "marcio-typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img title = "React" align = "center" height = "30px" width = "40px" alt = "marcio-react" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img title = "Tailwind" align = "center" height = "30px" width = "40px" alt = "marcio-wind" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img title = "Wordpress" align = "center" height = "30px" width = "40px" alt = "marcio-wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
 </div>
 
 <div style = "display: inline_block">
   <h3>Desired Skills</h3>
   
-  <img title = "Wordpress" align = "center" height = "30px" width = "40px" alt = "marcio-wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
   <img title = "Python" align = "center" height = "30px" width = "40px" alt = "marcio-python" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img title = "Go" align = "center" height = "30px" width = "40px" alt = "marcio-go" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 </div>
