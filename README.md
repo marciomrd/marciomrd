@@ -5,6 +5,7 @@
   <li> 👋 Hi, my name is Márcio! </li>
   <li> 👀 I am interested in getting involved professionally as a developer and following my journey to become a master developer! </li>
   <li> 🌱 Currently learning HTML, CSS, JavaScript, UI/UX Design and SEO. </li>
+  <li> 🔭 I’m currently working on Space Apps project ☄ </li>
 </ul>
 
 <h2> === Skill Tree === </h2>
@@ -51,5 +52,4 @@ Cheking for new ideas
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🎨 Inspirations ...
-- new year, new skill?
 -->
