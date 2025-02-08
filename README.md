@@ -4,7 +4,7 @@
 <ul>
   <li> 👋 Hi, my name is Márcio! </li>
   <li> 👀 I am interested in getting involved professionally as a developer and following my journey to become a master developer! </li>
-  <li> 🌱 Currently learning Go and Java. </li>
+  <li> 🌱 Currently learning Go, Java, Wordpress and SEO. </li>
   <li> 🔭 I’m currently working on Space Apps project ☄ </li>
 </ul>
 
