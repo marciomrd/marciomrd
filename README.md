@@ -36,7 +36,7 @@
   
   <img title = "Python" align = "center" height = "30px" width = "40px" alt = "marcio-python" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img title = "Go" align = "center" height = "30px" width = "40px" alt = "marcio-go" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-  <img title= "Flutter" align = "center" height = "29px" width= "40px" alt= "marcio-fluter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />    
+  <img title= "Flutter" align = "center" height = "30px" width= "40px" alt= "marcio-fluter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />    
 </div>
 
 <!--
