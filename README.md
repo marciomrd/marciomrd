@@ -29,6 +29,8 @@
   <img title = "Tailwind" align = "center" height = "30px" width = "40px" alt = "marcio-wind" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <br><br>
   <img title = "Wordpress" align = "center" height = "30px" width = "40px" alt = "marcio-wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+  <img title = Java align = "center" height = "30px" width = "40px" alt = "marcio-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
 </div>
 
 <div style = "display: inline_block">
