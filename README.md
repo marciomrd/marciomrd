@@ -18,7 +18,9 @@
   <br><br>
   <img title = "C++" align = "center" height = "30px" width = "40px" alt = "marcio-cpp" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
   <img title = "NodeJS" align = "center" height = "30px" width = "40px" alt = "marcio-node" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img title = "PostgreSQL" align = "center" height = "30px" width = "40px" alt = "marcio-postgre" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" /> 
+  <img title = "PostgreSQL" align = "center" height = "30px" width = "40px" alt = "marcio-postgre" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+  <br><br>
+  <img title = Java align = "center" height = "30px" width = "40px" alt = "marcio-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
 <div style = "display: inline_block">
@@ -29,7 +31,6 @@
   <img title = "Tailwind" align = "center" height = "30px" width = "40px" alt = "marcio-wind" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <br><br>
   <img title = "Wordpress" align = "center" height = "30px" width = "40px" alt = "marcio-wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
-  <img title = Java align = "center" height = "30px" width = "40px" alt = "marcio-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
           
 </div>
 
