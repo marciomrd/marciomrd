@@ -6,7 +6,6 @@
   <li> 👀 I am interested in getting involved professionally as a developer and following my journey to become a master developer! </li>
   <li> 🌱 Currently learning Go, Java, Wordpress and SEO. </li>
   <li> 🔭 I’m currently working on Go. </li>
-  <li> ✨ I'm finally back to here. </li>
 </ul>
 
 <h2> === Skill Tree === </h2>
